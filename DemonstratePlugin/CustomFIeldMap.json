@@ -1,0 +1,41 @@
+{
+  "assemblyId": "",
+  "assemblyName": "aName",
+  "assemblyIsolationMode": "iMode",
+  "assemblySourceType": "",
+  "assemblyPluginTypes": "",
+
+  "typeId": "",
+  "typeDescription": "",
+  "typeName": "tName",
+  "typeFriendlyName": "tName",
+  "typeTypeName": "tName",
+  "typeSteps": "",
+  "typeWorkflowActivityGroupName": "",
+
+  "stepId": "",
+  "stepName": "stepName",
+  "stepMessageName": "msg",
+  "stepDescription": "",
+  "stepCustomConfiguration": "",
+  "stepFilteringAttributes": "filteringAttributes",
+  "stepImpersonatingUserFullname": "",
+  "stepMode": "",
+  "stepPrimaryEntityName": "entity",
+  "stepRank": "executionOrder",
+  "stepStage": "stage",
+  "stepSupportedDeployment": "",
+  "stepImages": "",
+
+  "image1Id": "",
+  "image1Attributes": "image1Atts",
+  "image1EntityAlias": "",
+  "image1MessagePropertyName": "",
+  "image1ImageType": "image1Type",
+
+  "image2Id": "",
+  "image2Attributes": "image2Atts",
+  "image2EntityAlias": "",
+  "image2MessagePropertyName": "",
+  "image2ImageType": "image2Type"
+}
